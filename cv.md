@@ -33,3 +33,14 @@ I enjoy exploring new possibilities, working with technology and solving problem
 
 2016 - present
 Lead Radio and TV Engineer
+
+### Education
+
+2011-2016
+Sukhoi State Technical University (Industrial electronic)
+
+### Languages
+
+- Russian - native
+- English - A2
+- French - A1
